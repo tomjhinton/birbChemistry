@@ -21,4 +21,4 @@ For @sableRaph's weekly Creative Coding Challenge. The Challenge topic was Chemi
 - Changes material on little flame.
 - GSAP a uniform to change the shader.
 - Same nonsense in reverse if you press it again.
-_ Booelan that changes at the start and end of the animation to stop you double pressing
+- Booelan that changes at the start and end of the animation to stop you double pressing
